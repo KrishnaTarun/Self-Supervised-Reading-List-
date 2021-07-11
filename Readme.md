@@ -23,6 +23,8 @@ Well, these are the papers that I have read so far and it's a list just to keep 
 11. Contrastive Multiview Coding. [Arxiv](https://arxiv.org/abs/1906.05849) (Tag: CL)
 12. Self-Supervised Learning of Pretext-Invariant Representations. [Arxiv](https://arxiv.org/pdf/1912.01991v1.pdf) (Tag: CL)
 13. Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination. [Arxiv](https://arxiv.org/abs/1805.01978) (Tag: CL)
+14. Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning. [Arxiv](https://arxiv.org/abs/2011.10043) (Tags: CL, ST)
+
 
 
 
