@@ -6,3 +6,11 @@ This is repository contains the reading list for Self-Supervised Learning (and r
 
 - **C**ontrastive **L**earning : CL
 - **K**nowledge **D**istillation : KD 
+- **D**eep **Cl**ustering: DCL
+- **S**tudent **T**eacher: ST
+- **S**iamese **L**earning: SL
+
+## Papers
+- A Simple Framework for Contrastive Learning of Visual Representations [Arxiv](https://arxiv.org/abs/2002.05709)
+
+
