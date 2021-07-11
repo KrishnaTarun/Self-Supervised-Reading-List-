@@ -1,6 +1,6 @@
 ## Reading List
 
-This is repository contains the reading list for Self-Supervised Learning (and related literature). Well these are the papers that I have read so far and it's a list just to keep track of that.
+Well, these are the papers that I have read so far and it's a list just to keep track of that.
 
 ### Acronyms
 
