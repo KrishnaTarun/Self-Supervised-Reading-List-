@@ -20,6 +20,7 @@ Well, these are the papers that I have read so far and it's a list just to keep 
 15. Momentum Contrast for Unsupervised Visual Representation Learning. [Arxiv](https://arxiv.org/abs/1911.05722)
 16. Improved Baselines with Momentum Contrastive Learning. [Arxiv](https://arxiv.org/abs/2003.04297)
 17. What Makes for Good Views for Contrastive Learning? [Arxiv](https://arxiv.org/pdf/2005.10243.pdf) 
+18. Self-Supervised Learning with Swin Transformers. [Arxiv](https://arxiv.org/abs/2105.04553)
 
 
 
