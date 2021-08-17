@@ -23,6 +23,7 @@ Well, these are the papers that I have read so far and it's a list just to keep 
 16. Self-Supervised Learning with Swin Transformers. [Arxiv](https://arxiv.org/abs/2105.04553)
 17. Intriguing Properties of Contrastive Losses. [Arxiv](https://arxiv.org/abs/2011.02803)
 18. With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations. [Arxiv](https://arxiv.org/abs/2104.14548)
+19. ReSSL: Relational Self-Supervised Learning with Weak Augmentation. [Arxiv](https://arxiv.org/pdf/2107.09282.pdf)
 
 
 
