@@ -22,6 +22,7 @@ Well, these are the papers that I have read so far and it's a list just to keep 
 15. What Makes for Good Views for Contrastive Learning? [Arxiv](https://arxiv.org/pdf/2005.10243.pdf) 
 16. Self-Supervised Learning with Swin Transformers. [Arxiv](https://arxiv.org/abs/2105.04553)
 17. Intriguing Properties of Contrastive Losses. [Arxiv](https://arxiv.org/abs/2011.02803)
+18. With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations. [Arxiv](https://arxiv.org/abs/2104.14548)
 
 
 
