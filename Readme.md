@@ -25,6 +25,7 @@ Well, these are the papers that I have read so far and it's a list just to keep 
 18. With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations. [Arxiv](https://arxiv.org/abs/2104.14548)
 19. ReSSL: Relational Self-Supervised Learning with Weak Augmentation. [Arxiv](https://arxiv.org/pdf/2107.09282.pdf)
 20. Learning Representations by Predicting Bags of Visual Words. [Arxiv](https://arxiv.org/abs/2002.12247)
+21. Information-Preserving Contrastive Learning for Self-Supervised Representations Contrastive Learning for Self-Supervised Representations. [Arxiv](https://arxiv.org/pdf/2012.09962v2.pdf)
 
 
 
